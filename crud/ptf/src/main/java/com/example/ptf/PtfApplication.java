@@ -1,13 +1,13 @@
-package com.example.CRUDbackend;
+package com.example.ptf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CruDbackendApplication {
+public class PtfApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CruDbackendApplication.class, args);
+		SpringApplication.run(PtfApplication.class, args);
 	}
 
 }
