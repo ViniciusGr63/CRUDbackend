@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+# Ignorar arquivos de configuração locais que contêm credenciais
+*.properties
